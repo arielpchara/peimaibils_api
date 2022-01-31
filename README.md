@@ -1,2 +1,2 @@
 # peimaibils
-protipo da parada
+prototimpo da parada
